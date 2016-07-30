@@ -1,0 +1,17 @@
+### Java and IntelliJ
+*.class
+*.jar
+hs_err_pid*
+*.iml
+.idea/*
+/target/
+.classpath
+.project
+.settings/*
+
+### Linux and KDE
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
